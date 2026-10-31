@@ -1,0 +1,16 @@
+{
+    "schema":  1,
+    "version":  "1.10.8",
+    "build":  2008,
+    "min_supported_build":  0,
+    "published_at":  "2026-10-31T08:44:08Z",
+    "notes_fa":  "",
+    "package":  {
+                    "url":  "https://github.com/mrYasinHamidi/visiton_dashboard_app/releases/download/v1.10.8-2008/VisitonDashboard_1.10.8_2008.zip",
+                    "mirrors":  [
+
+                                ],
+                    "size":  45117205,
+                    "sha256":  "f0963ed9c188cba9fdbd2b55875b1a4f56d96165459ec7a42c54533ed4f6f1b7"
+                }
+}
