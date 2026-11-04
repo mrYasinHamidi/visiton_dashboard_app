@@ -1,16 +1,16 @@
 {
     "schema":  1,
-    "version":  "1.10.12",
-    "build":  2012,
+    "version":  "1.10.14",
+    "build":  2014,
     "min_supported_build":  0,
-    "published_at":  "2026-11-03T09:28:22Z",
+    "published_at":  "2026-11-04T10:38:26Z",
     "notes_fa":  "",
     "package":  {
-                    "url":  "https://github.com/mrYasinHamidi/visiton_dashboard_app/releases/download/v1.10.12-2012/VisitonDashboard_1.10.12_2012.zip",
+                    "url":  "https://github.com/mrYasinHamidi/visiton_dashboard_app/releases/download/v1.10.14-2014/VisitonDashboard_1.10.14_2014.zip",
                     "mirrors":  [
 
                                 ],
-                    "size":  45249053,
-                    "sha256":  "ac7e906123eb264250c0a8fba50a9c70217cdb37e1bc4f8c65af858fbf05c0d2"
+                    "size":  45263640,
+                    "sha256":  "eec1a294b8ac75151fcce7ea8f37f55d7e535069e1dcbce26188429be42dc675"
                 }
 }
