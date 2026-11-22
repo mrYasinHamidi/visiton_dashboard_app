@@ -1,16 +1,16 @@
 {
     "schema":  1,
-    "version":  "1.10.30",
-    "build":  2031,
+    "version":  "1.10.33",
+    "build":  2034,
     "min_supported_build":  0,
-    "published_at":  "2026-11-22T16:20:18Z",
+    "published_at":  "2026-11-22T18:15:36Z",
     "notes_fa":  "",
     "package":  {
-                    "url":  "https://github.com/mrYasinHamidi/visiton_dashboard_app/releases/download/v1.10.30-2031/VisitonDashboard_1.10.30_2031.zip",
+                    "url":  "https://github.com/mrYasinHamidi/visiton_dashboard_app/releases/download/v1.10.33-2034/VisitonDashboard_1.10.33_2034.zip",
                     "mirrors":  [
 
                                 ],
-                    "size":  45458179,
-                    "sha256":  "9080065ced416a94b1d4ba84bb85cdf2be10ef99734177afb4b95191702b8093"
+                    "size":  45459954,
+                    "sha256":  "824d9002f207df61cc2fb7930b8f58999e9daefde2266d4009aa706255481621"
                 }
 }
